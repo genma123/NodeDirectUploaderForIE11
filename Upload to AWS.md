@@ -74,8 +74,7 @@
     */
     (function() {
         document.getElementById('file-input').onchange = initUpload;
-    })();```
-```javascript
-```
+    })();
+	```
 
 > Written with [StackEdit](https://stackedit.io/).
